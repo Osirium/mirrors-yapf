@@ -3,5 +3,5 @@
     entry: yapf
     language: python
     files: \.py$
-    args: [-i]
+    args: [-i,-p]
 
